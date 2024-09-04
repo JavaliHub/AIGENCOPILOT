@@ -1,5 +1,5 @@
-# AIGENCOPILOT - IA GENERATIVA DO COPILOT 
-## UM IDEIA DE COMO UTILIZAR!!! 
+# AIGENCOPILOT - AI GENERATIVA DO COPILOT 
+## UMA IDEIA PARA USAR A INTELIGENCIA ARTIFICIAL GENERATIVA!!!
 
 ## 🚀 Introdução
 
@@ -34,14 +34,10 @@ Este projeto tem como objetivo estimular a Geração Prateada a aprender e utili
 as IAs e IAs Generativas para motivar e facilitar o seu dia a dia. 💪🤓
 
 ## 🤖 Tecnologias Utilizadas
-* ChatGPT;
 * Copilot;
-* Midjourney;
-* Lexica;
-* Elevenlabs.io;
-* D-ID;
-* Shotcut;
-* Power Point.
+* ChatGPT;
+* D-ID.
+
 
 ## 🧐 Processo de Criação
 Foram criados a partir do desafio de estudo, um video informando sobre o assunto em questão
@@ -58,11 +54,11 @@ ou fazer várias coisas interessantes para nossas vidas!!!!🤓
 
 ```
 
-### 🎯 Exemplos e Insigths
+### 🎯 LINK's
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Input (Imagens)](/exemplos/Input.md)
+- [Input (Roteiro do Trabalho)](/exemplos/Roteiro.md)
+- [Output (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## 🌌 Fim do desafio
 
